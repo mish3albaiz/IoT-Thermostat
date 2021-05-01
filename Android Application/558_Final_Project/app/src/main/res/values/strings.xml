@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IoT Thermostat App</string>
+    <string-array name="fan_array">
+        <item>Automatic</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="scroll_view_spinner">
+        <item>Newest First</item>
+        <item>Oldest First</item>
+    </string-array>
+    <string name="settings_description">IoT thermostat created for ECE558 Final Project Fall 2019.</string>
+</resources>

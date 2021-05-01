@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="scheme_white">#FAFAFA</color>
+    <color name="scheme_light_blue">#E3F2FD</color>
+    <color name="scheme_red">#DB5461</color>
+    <color name="scheme_brown">#686963</color>
+    <color name="scheme_gray">#8AA29E</color>
+    <color name="spinner_blue">#3399FF</color>
+    <color name="spinner_orange">#FAA500</color>
+    <color name="spinner_green">#32CD32</color>
+    <color name="spinner_red">#FF0000</color>
+    <color name="background_blue">#263238</color>
+    <color name="text_color">#425B67</color>
+    <color name="contrast">#1E272C</color>
+    <color name="foreground">#B0BEC5</color>
+</resources>

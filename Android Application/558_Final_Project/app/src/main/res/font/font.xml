@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:font="@font/fredoka"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <font
+        android:font="@font/sequel"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <font
+        android:font="@font/quicksand"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <font
+        android:font="@font/gidole"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+    <font
+        android:font="@font/museo"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+
+</font-family>
